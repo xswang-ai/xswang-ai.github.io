@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
+title: "Distinctions"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Tuition Fee Scholarship, University of New South Wales, from 2019 to 2023
 
-Heading 1
-======
+* CSC Scholarship, Chinese Scholarship Council, from 2019 to 2023
+​
+* Oustanding Master's Thesis, Tongji University, 2019
 
-Heading 2
-======
+* CSC Scholarship, Chinese Scholarship Council, from 2015.02 to 2015.07
 
-Heading 3
 ======

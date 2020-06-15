@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Xuesong Wang / Homepage"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate \n Computer Science and Engineering \n University of New South Wales"
+  bio              : "PhD candidate, UNSW"
   location         : "2052 Sydney, NSW, Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=mQdTZhYAAAAJ&hl=en"
+  email            : "xuesong.wang1@unsw.edu.au"
+  researchgate     : "https://www.researchgate.net/profile/Xuesong_Wang19"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/xuesongwang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  lastfm           : "https://www.linkedin.com/in/xuesong-wang-7728a711a/"
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4728-8924"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
