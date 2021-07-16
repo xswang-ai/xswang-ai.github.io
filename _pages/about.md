@@ -69,8 +69,8 @@ COMM1190 "Data, Insights, Decisions", Term 3 2021, UNSW.
 CV
 =======
 
-Personal Interests and Volunteering
+Personal Interests
 =======
-Mentor for Personalized English Language Enhancement PELE, Term2  2020 with the UNSW linguistic A. Prof. Mira Kim
+Mentor for Personalized English Language Enhancemfient PELE, Term2  2020 with the UNSW linguistic A. Prof. Mira Kim
 
-Dialects and Psychology}
+Dialects and Psychology
