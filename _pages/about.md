@@ -59,7 +59,7 @@ Honors and Awards
   (3MT is a competition for PhDs to consolidate their ideas and crystallise research discoveries in 3 minutes.)
 - Google Research India Graduate Symposium Attendee.
 - TFS-CSC PhD scholarship. Four-years funding with tuition fee waiver, UNSW and CSC.
-- Outstanding Master Thesis. Tongji Unviersity award for academic excellence during the master.
+- Outstanding Master Thesis. Tongji Unviersity award for academic excellence.
 - TJU-TUM Industrial 4.0 Symposium. Selected to present the master project in Technical University of Munich.
 - Exchange Student Scholarship. Sponsored by China-Scholarship-Council (CSC) for exchange program in RMIT.
 
@@ -70,8 +70,8 @@ Professional Services
   - Journals: ACM Transactions on Sensor Networks, IEEE TNNLS.
 
 - External Reviewer:
-  -Conferences: CIKM 2020, IPSN 2020.
-  -Journals: IEEE Access.
+  - Conferences: CIKM 2020, IPSN 2020.
+  - Journals: IEEE Access.
 
 Teaching
 =======
@@ -79,10 +79,11 @@ Teaching
 
 CV
 =======
+[July 2021 Edition](https://xuesongwang.github.io/files/cv_xuesongwang)
 
 Personal Interests
 =======
-Mentor for Personalized English Language Enhancement PELE, Term2  2020 with the UNSW linguistic A. Prof. Mira Kim
+- Mentor for Personalized English Language Enhancement PELE, Term2  2020 with the UNSW linguistic A. Prof. Mira Kim
 
-Dialects and Psychology
+- Dialects and Psychology
 
