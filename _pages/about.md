@@ -13,19 +13,20 @@ His research focuses on building explainable models and uncertainty evaluation u
 He received the Master degree in 2019 from [Tongji University](https://en.tongji.edu.cn/), supervised by Prof. [Qi Kang](https://scholar.google.com/citations?user=t8K4P4wAAAAJ&hl=en&oi=ao),
 and the Bachelor degree in 2016 from [NUAA](http://nuaa.edu.cn/).
 
+
 Publications
 ======
-**NP-PROV: Neural Processes with Position-Relevant-Only Variances**
+- Xuesong Wang, Lina Yao, Xianzhi Wang, and  Feiping Nie, ["NP-PROV: Neural Processes with Position-Relevant-Only Variances"](https://arxiv.org/abs/2007.00767). In *abs 2007.00767, arXiv*, 2020
 
-*Mobility Irregularity Detection with Smart Transit Card Data*
+- "Mobility Irregularity Detection with Smart Transit Card Data"
 
-*Multiscale Drift Detection Test to Enable Fast Learning in Nonstationary Environments**
+- "Multiscale Drift Detection Test to Enable Fast Learning in Nons-tationary Environments"
 
-*Predicting Heat Transfer of Oscillating Heat Pipes for Machining Processes based on Extreme Gradient Boosting Algorithm*
+- "Predicting Heat Transfer of Oscillating Heat Pipes for Machining Processes based on Extreme Gradient Boosting Algorithm"
 
-*Drifted Twitter Spam Classification Using Multiscale Detection Test on K-L Divergence*
+- "Drifted Twitter Spam Classification Using Multiscale Detection Test on K-L Divergence"
 
-*A Distance-based Weighted Undersampling Scheme for Support Vector Machines and its Application to Imbalanced Classification*
+- "A Distance-based Weighted Undersampling Scheme for Support Vector Machines and its Application to Imbalanced Classification"
 
 Honors and Awards
 ======
