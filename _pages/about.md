@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral fellow in the Data and Knowledge Research Group at [The University of New South Wales](https://unsw.edu.au/) (advised by UNSW [Scientia Professor Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)). From July 2017 to May 2021, I was a Ph.D. student in the Data and Knowledge research Group, supervised by Prof. Xuemin Lin. I received my master and bachelor degrees from [Tongji University](https://en.tongji.edu.cn/). My research interests lie in the areas of graph databases and efficient query algorithms.
+Xue-Song Wang is a PhD candidate in the Data Dynamics Group at [UNSW](https://www.unsw.edu.au/) 
+supervised by [Scientia A. Prof. Lina Yao](https://www.linayao.com/).
+His research focuses on building explainable models and uncertainty evaluation using Neural Processes. 
+He received the Master degree in 2019 from [Tongji University](https://en.tongji.edu.cn/), supervised by Prof. [Qi Kang](https://scholar.google.com/citations?user=t8K4P4wAAAAJ&hl=en&oi=ao),
+and the Bachelor degree in 2016 from [NUAA](http://nuaa.edu.cn/).
 
 Publications
 ======
