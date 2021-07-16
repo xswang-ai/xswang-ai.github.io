@@ -15,17 +15,17 @@ and the Bachelor degree in 2016 from [NUAA](http://nuaa.edu.cn/).
 
 Publications
 ======
-    **NP-PROV: Neural Processes with Position-Relevant-Only Variances**
+*NP-PROV: Neural Processes with Position-Relevant-Only Variances*
 
-    **Mobility Irregularity Detection with Smart Transit Card Data**
+*Mobility Irregularity Detection with Smart Transit Card Data*
 
-    **Multiscale Drift Detection Test to Enable Fast Learning in Nonstationary Environments**
+*Multiscale Drift Detection Test to Enable Fast Learning in Nonstationary Environments**
 
-    **Predicting heat transfer of oscillating heat pipes for machining processes based on extreme gradient boosting algorithm**
+*Predicting Heat Transfer of Oscillating Heat Pipes for Machining Processes based on Extreme Gradient Boosting Algorithm*
 
-    **Drifted Twitter Spam Classification Using Multiscale Detection Test on K-L Divergence**
+*Drifted Twitter Spam Classification Using Multiscale Detection Test on K-L Divergence*
 
-    **A distance-based weighted undersampling scheme for support vector machines and its application to imbalanced classification**
+*A Distance-based Weighted Undersampling Scheme for Support Vector Machines and its Application to Imbalanced Classification*
 
 Honors and Awards
 ======
