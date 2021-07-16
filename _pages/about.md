@@ -15,46 +15,63 @@ and the Bachelor degree in 2016 from [NUAA](http://nuaa.edu.cn/).
 
 Publications
 ======
-**NP-PROV: Neural Processes with Position-Relevant-Only Variances**
+    **NP-PROV: Neural Processes with Position-Relevant-Only Variances**
 
-**Mobility Irregularity Detection with Smart Transit Card Data**
+    **Mobility Irregularity Detection with Smart Transit Card Data**
 
-**Multiscale Drift Detection Test to Enable Fast Learning in Nonstationary Environments**
+    **Multiscale Drift Detection Test to Enable Fast Learning in Nonstationary Environments**
 
-**Predicting heat transfer of oscillating heat pipes for machining processes based on extreme gradient boosting algorithm**
+    **Predicting heat transfer of oscillating heat pipes for machining processes based on extreme gradient boosting algorithm**
 
-**Drifted Twitter Spam Classification Using Multiscale Detection Test on K-L Divergence**
+    **Drifted Twitter Spam Classification Using Multiscale Detection Test on K-L Divergence**
 
-**A distance-based weighted undersampling scheme for support vector machines and its application to imbalanced classification**
-
-Academic Services
-======
-- Program Committee: 
-  - CIKM 2021 (short paper)
-  - WISE 2021
-- Invited Journal Reviewer:
-  - VLDBJ
-  - WWWJ
-- (External) Conference/Journal Reviewer: KDD, VLDB, ICDE, TKDE, DASFAA, CIKM, SpatialDI, etc. 
-
-Talks
-======
-- Unveiling Critical Node-to-Node Relationships for Complex Network Analysis. Wangxuan Forum, Peking University, 2021.
-
-Teaching
-======
-- Guest Lecturer for Data Analytics for Graphs (COMP9312) 
-  - 2021 T2
-- Tutor for Database Systems (COMP9311)
-  - 2021 T1, 2020 T3, 2020 T1, 2019 T3, 2019 T1, 2018 S2, 2018 S1
-- Tutor for Data Science and Decisions (DATA1001) 
-  - 2020 T2, 2019 T2, 2018 S1
+    **A distance-based weighted undersampling scheme for support vector machines and its application to imbalanced classification**
 
 Honors and Awards
 ======
-- HDR Foundation Fellowship, The University of New South Wales, 2021
-- VLDB Endowment grants, 2021
-- Second Prize, the National Post-Graduate Mathematical Contest in Modelling, Tongji University, 2015
-- Excellent Graduate of Shanghai, Tongji University, 2014
-- Excellent Student of Tongji University, Tongji University, 2014
-- Meritorious Winner, the American Mathematical contest in Modelling, Tongji University, 2012
+
+3-Minute-Thesis People's Choice Award (3 out of 15)} Faculty of Engineering, UNSW.
+
+3-Minute-Thesis Second Prize (2 out of 7)} School of Computer Science and Engineering, UNSW.
+
+
+3MT is a competition for PhDs to consolidate their ideas and crystallise research discoveries in 3 minutes.\\
+
+Google Research India Graduate Symposium Attendee.
+
+TFS-CSC PhD scholarship.} Four-years funding with tuition fee waiver, UNSW and CSC.
+
+Outstanding Master Thesis.} Tongji Unviersity award for academic excellence during the master.
+
+TJ-TUM Industrial 4.0 Symposium}. Selected to present the master project in Technical University of Munich.
+
+Exchange Student Scholarship.} Sponsored by China-Scholarship-Council (CSC) for exchange program in RMIT.
+
+Professional Services
+======
+
+Reviewer, the Conference on Information and Knowledge Management (CIKM), 2021.
+
+Reviewer. ACM Transactions on Sensor Networks.
+
+Reviewer, IEEE Transactions on Neural Networks and Learning Systems.
+
+External Reviewer, the Conference on Information and Knowledge Management (CIKM), 2020.
+
+External Reviewer, the International Conference on Information Processing in Sensor Networks (IPSN) , 2020.
+
+External Reviewer. IEEE Access.
+
+Teaching
+=======
+COMM1190 "Data, Insights, Decisions", Term 3 2021, UNSW.
+
+CV
+=======
+
+Personal Interests
+=======
+Mentor for Personalized English Language Enhancement PELE, Term2  2020 with the UNSW linguistic A. Prof. Mira Kim
+
+Dialects and Psychology
+
