@@ -1,22 +1,28 @@
 # main links links
 main:
   - title: "Publications"
-    url: /#publications/
-    
+    url: /#publications
+ 
+  - title: "Academia Services"
+    url: /#academic-services
 
-  - title: "Honors and Awards"
-    url: /#awards/    
-        
-  - title: "Professional Services"
-    url: /#professionalservices/
-    
+  - title: "Talks"
+    url: /#talks 
+
   - title: "Teaching"
-    url: /#teaching/
-  
-  - title: "CV"
-    url: /#cv/
+    url: /#teaching  
+ 
+  - title: "Honors"
+    url: /#honors-and-awards
     
-  - title: "Personal Interests"
-    url: /#hobby/
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
+  # - title: "CV"
+  #   url: /cv/
     
+  # - title: "Guide"
+  #   url: /markdown/
