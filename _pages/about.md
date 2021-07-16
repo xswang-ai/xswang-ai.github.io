@@ -15,8 +15,9 @@ and the Bachelor degree in 2016 from [NUAA](http://nuaa.edu.cn/).
 
 Publications
 ======
+**NP-PROV: \emph{Neural} Processes with Position-Relevant-Only Variances**
 
-
+**Mobility Irregularity Detection with Smart Transit Card Data**
 
 Honors and Awards
 ======
