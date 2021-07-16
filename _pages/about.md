@@ -16,10 +16,11 @@ and the Bachelor degree in 2016 from [NUAA](http://nuaa.edu.cn/).
 
 Publications
 ======
-- Xuesong Wang\*, Lina Yao, Xianzhi Wang, and  Feiping Nie, ["NP-PROV: Neural Processes with Position-Relevant-Only Variances"](https://arxiv.org/abs/2007.00767). In *abs 2007.00767*, arXiv, 2020
+- Xuesong Wang\*, Lina Yao, Xianzhi Wang, and  Feiping Nie, "NP-PROV: Neural Processes with Position-Relevant-Only Variances". In *abs 2007.00767*, arXiv, 2020.
+[Paper](https://arxiv.org/abs/2007.00767)[code](https://github.com/xuesongwang/Mobility-Irregularity-Detection)
 
 - Xuesong Wang\*, Lina Yao, Wei Liu, Can Li, Lei Bai, and S. Travis Waller, ["Mobility Irregularity Detection with Smart Transit Card Data"]
-(https://www.researchgate.net/publication/338912693_Mobility_Irregularity_Detection_with_Smart_Transit_Card_Data), In *Pacific-Asia Conference on Knowledge Discovery and Data Mining*, PAKDD, 2020
+(https://www.researchgate.net/publication/338912693_Mobility_Irregularity_Detection_with_Smart_Transit_Card_Data), In *Pacific-Asia Conference on Knowledge Discovery and Data Mining*, PAKDD, 2020.
 
 - XueSong Wang, Qi Kang\*, MengChu Zhou, Le Pan, and Abdullah Abusorrah, ["Multiscale Drift Detection Test to Enable Fast Learning in Nons-tationary Environments"]
 (https://ieeexplore.ieee.org/abstract/document/9119144). In *IEEE Transactions on Cybernetics* 2020.
