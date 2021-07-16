@@ -54,37 +54,28 @@ In *IEEE Transactions on Neural Networks and Learning Systems*, TNNLS, 2018.
 Honors and Awards
 ======
 
-- 3-Minute-Thesis People's Choice Award (3 out of 15)} Faculty of Engineering, UNSW.
-- 3-Minute-Thesis Second Prize (2 out of 7)} School of Computer Science and Engineering, UNSW.
-  
+- 3-Minute-Thesis People's Choice Award (3 out of 15), Faculty of Engineering, UNSW.
+- 3-Minute-Thesis Second Prize (2 out of 7), School of Computer Science and Engineering, UNSW.
   (3MT is a competition for PhDs to consolidate their ideas and crystallise research discoveries in 3 minutes.)
 - Google Research India Graduate Symposium Attendee.
--TFS-CSC PhD scholarship.} Four-years funding with tuition fee waiver, UNSW and CSC.
-
-Outstanding Master Thesis.} Tongji Unviersity award for academic excellence during the master.
-
-TJ-TUM Industrial 4.0 Symposium}. Selected to present the master project in Technical University of Munich.
-
-Exchange Student Scholarship.} Sponsored by China-Scholarship-Council (CSC) for exchange program in RMIT.
+- TFS-CSC PhD scholarship. Four-years funding with tuition fee waiver, UNSW and CSC.
+- Outstanding Master Thesis. Tongji Unviersity award for academic excellence during the master.
+- TJU-TUM Industrial 4.0 Symposium. Selected to present the master project in Technical University of Munich.
+- Exchange Student Scholarship. Sponsored by China-Scholarship-Council (CSC) for exchange program in RMIT.
 
 Professional Services
 ======
+- Reviewer:
+  - Conferences: CIKM 2021.
+  - Journals: ACM Transactions on Sensor Networks, IEEE TNNLS.
 
-Reviewer, the Conference on Information and Knowledge Management (CIKM), 2021.
-
-Reviewer. ACM Transactions on Sensor Networks.
-
-Reviewer, IEEE Transactions on Neural Networks and Learning Systems.
-
-External Reviewer, the Conference on Information and Knowledge Management (CIKM), 2020.
-
-External Reviewer, the International Conference on Information Processing in Sensor Networks (IPSN) , 2020.
-
-External Reviewer. IEEE Access.
+- External Reviewer:
+  -Conferences: CIKM 2020, IPSN 2020.
+  -Journals: IEEE Access.
 
 Teaching
 =======
-COMM1190 "Data, Insights, Decisions", Term 3 2021, UNSW.
+- Tutor, COMM1190 "Data, Insights, Decisions", Term 3 2021, UNSW.
 
 CV
 =======
