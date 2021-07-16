@@ -3,17 +3,14 @@ main:
   - title: "Publications"
     url: /#publications
  
+  - title: "Honors and Awards"
+    url: /#honors-and-awards
+    
   - title: "Professional Services"
     url: /#Professional-Services
 
-  - title: "Talks"
-    url: /#talks 
-
   - title: "Teaching"
     url: /#teaching  
- 
-  - title: "Honors and Awards"
-    url: /#honors-and-awards
     
   - title: "CV"
     url: /#cv
