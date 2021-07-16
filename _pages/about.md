@@ -1,76 +1,52 @@
 ---
 permalink: /
-title: "About me"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Xue-Song Wang is a PhD candidate in the Data Dynamics Group at [UNSW](https://www.unsw.edu.au/) 
-supervised by [Scientia A. Prof. Lina Yao](https://www.linayao.com/).
-His research focuses on building explainable models and uncertainty evaluation using Neural Processes. 
-He received the Master degree in 2019 from [Tongji University](https://en.tongji.edu.cn/), supervised by Prof. [Qi Kang](https://scholar.google.com/citations?user=t8K4P4wAAAAJ&hl=en&oi=ao),
-and the Bachelor degree in 2016 from [NUAA](http://nuaa.edu.cn/).
+I am currently a postdoctoral fellow in the Data and Knowledge Research Group at [The University of New South Wales](https://unsw.edu.au/) (advised by UNSW [Scientia Professor Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)). From July 2017 to May 2021, I was a Ph.D. student in the Data and Knowledge research Group, supervised by Prof. Xuemin Lin. I received my master and bachelor degrees from [Tongji University](https://en.tongji.edu.cn/). My research interests lie in the areas of graph databases and efficient query algorithms.
 
 Publications
 ======
-**NP-PROV: Neural Processes with Position-Relevant-Only Variances**
+1.  **Xiaoshuang Chen**, Kai Wang, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying ZHang. “Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs.” International Conference on Very Large Data Bases (**VLDB**), to appear, 2021.
+2.	**Xiaoshuang Chen**, Longbin Lai, Lu Qin, Xuemin Lin, and Boge Liu. “A Framework to Quantify Approximate Simulation on Graph Data.” IEEE International Conference on Data Engineering (**ICDE**), 2021: 1308-1319.
+3.	**Xiaoshuang Chen**, Longbin Lai, Lu Qin, and Xuemin Lin. "Efficient structural node similarity computation on billion-scale graphs." The VLDB Journal (**VLDBJ**), 2021: 1-23.  
+4.	**Xiaoshuang Chen**, Longbin Lai, Lu Qin, and Xuemin Lin. "Structsim: Querying structural node similarity at billion scale." IEEE International Conference on Data Engineering (**ICDE**) pp. 1950-1953. 
+5.	Qi Kang, **XiaoShuang Chen**, SiSi Li, and MengChu Zhou. "A noise-filtered under-sampling scheme for imbalanced classification." IEEE Transactions on Cybernetics 47, no. 12 (2016): 4263-4274.
+6.	**Xiaoshuang Chen**. "Simulation-based Approximate Graph Pattern Matching." In ACM SIGMOD International Conference on Management of Data (**SIGMOD**), pp. 2825-2827. 2020.
+7.	**Xiaoshuang Chen**, Qi Kang, MengChu Zhou, and Zhi Wei. "A novel under-sampling algorithm based on iterative-partitioning filters for imbalanced classification." In 2016 IEEE International Conference on Automation Science and Engineering (CASE), pp. 490-494. IEEE, 2016.
 
-**Mobility Irregularity Detection with Smart Transit Card Data**
+Academic Services
+======
+- Program Committee: 
+  - CIKM 2021 (short paper)
+  - WISE 2021
+- Invited Journal Reviewer:
+  - VLDBJ
+  - WWWJ
+- (External) Conference/Journal Reviewer: KDD, VLDB, ICDE, TKDE, DASFAA, CIKM, SpatialDI, etc. 
 
-**Multiscale Drift Detection Test to Enable Fast Learning in Nonstationary Environments**
+Talks
+======
+- Unveiling Critical Node-to-Node Relationships for Complex Network Analysis. Wangxuan Forum, Peking University, 2021.
 
-**Predicting heat transfer of oscillating heat pipes for machining processes based on extreme gradient boosting algorithm**
-
-**Drifted Twitter Spam Classification Using Multiscale Detection Test on K-L Divergence**
-
-**A distance-based weighted undersampling scheme for support vector machines and its application to imbalanced classification**
+Teaching
+======
+- Guest Lecturer for Data Analytics for Graphs (COMP9312) 
+  - 2021 T2
+- Tutor for Database Systems (COMP9311)
+  - 2021 T1, 2020 T3, 2020 T1, 2019 T3, 2019 T1, 2018 S2, 2018 S1
+- Tutor for Data Science and Decisions (DATA1001) 
+  - 2020 T2, 2019 T2, 2018 S1
 
 Honors and Awards
 ======
-
-3-Minute-Thesis People's Choice Award (3 out of 15)} Faculty of Engineering, UNSW.
-
-3-Minute-Thesis Second Prize (2 out of 7)} School of Computer Science and Engineering, UNSW.
-
-
-3MT is a competition for PhDs to consolidate their ideas and crystallise research discoveries in 3 minutes.\\
-
-Google Research India Graduate Symposium Attendee.
-
-TFS-CSC PhD scholarship.} Four-years funding with tuition fee waiver, UNSW and CSC.
-
-Outstanding Master Thesis.} Tongji Unviersity award for academic excellence during the master.
-
-TJ-TUM Industrial 4.0 Symposium}. Selected to present the master project in Technical University of Munich.
-
-Exchange Student Scholarship.} Sponsored by China-Scholarship-Council (CSC) for exchange program in RMIT.
-
-Professional Services
-======
-
-Reviewer, the Conference on Information and Knowledge Management (CIKM), 2021.
-
-Reviewer. ACM Transactions on Sensor Networks.
-
-Reviewer, IEEE Transactions on Neural Networks and Learning Systems.
-
-External Reviewer, the Conference on Information and Knowledge Management (CIKM), 2020.
-
-External Reviewer, the International Conference on Information Processing in Sensor Networks (IPSN) , 2020.
-
-External Reviewer. IEEE Access.
-
-Teaching
-=======
-COMM1190 "Data, Insights, Decisions", Term 3 2021, UNSW.
-
-CV
-=======
-
-Personal Interests and Volunteering
-=======
-Mentor for Personalized English Language Enhancement PELE, Term2  2020 with the UNSW linguistic A. Prof. Mira Kim
-
-Dialects and Psychology}
+- HDR Foundation Fellowship, The University of New South Wales, 2021
+- VLDB Endowment grants, 2021
+- Second Prize, the National Post-Graduate Mathematical Contest in Modelling, Tongji University, 2015
+- Excellent Graduate of Shanghai, Tongji University, 2014
+- Excellent Student of Tongji University, Tongji University, 2014
+- Meritorious Winner, the American Mathematical contest in Modelling, Tongji University, 2012
