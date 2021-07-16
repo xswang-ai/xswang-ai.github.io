@@ -19,32 +19,32 @@ Publications
 - Xuesong Wang\*, Lina Yao, Xianzhi Wang, and  Feiping Nie,
 "NP-PROV: Neural Processes with Position-Relevant-Only Variances". 
 In *abs 2007.00767*, arXiv, 2020.
-[Paper](https://arxiv.org/abs/2007.00767)
-[code](https://github.com/xuesongwang/Neural-Process-Family)
+[\[Paper\]](https://arxiv.org/abs/2007.00767) ·
+[\[code\]](https://github.com/xuesongwang/Neural-Process-Family)
 
 - Xuesong Wang\*, Lina Yao, Wei Liu, Can Li, Lei Bai, and S. Travis Waller, 
 "Mobility Irregularity Detection with Smart Transit Card Data". 
 In *Pacific-Asia Conference on Knowledge Discovery and Data Mining*, PAKDD, 2020. 
-[Paper](https://www.researchgate.net/publication/338912693_Mobility_Irregularity_Detection_with_Smart_Transit_Card_Data)
-[code](https://github.com/xuesongwang/Mobility-Irregularity-Detection)
+[\[Paper\]](https://www.researchgate.net/publication/338912693_Mobility_Irregularity_Detection_with_Smart_Transit_Card_Data) ·
+[\[code\]](https://github.com/xuesongwang/Mobility-Irregularity-Detection)
 
 - XueSong Wang, Qi Kang\*, MengChu Zhou, Le Pan, and Abdullah Abusorrah, 
 "Multiscale Drift Detection Test to Enable Fast Learning in Nons-tationary Environments".
 In *IEEE Transactions on Cybernetics*, 2020.
-[Paper](https://ieeexplore.ieee.org/abstract/document/9119144)
-[code](https://github.com/xuesongwang/MDDT-Concept-Drift)
+[\[Paper\]]https://ieeexplore.ieee.org/abstract/document/9119144) ·
+[\[code\]](https://github.com/xuesongwang/MDDT-Concept-Drift)
 
 - Ning Qian, Xuesong Wang, Yucan Fu\*, Zhengcai Zhao, Jiuhua Xu, and Jiajia Chen, 
 "Predicting Heat Transfer of Oscillating Heat Pipes for Machining Processes based on Extreme Gradient Boosting Algorithm".
 In *Applied Thermal Engineering*, 2020.
-[Paper](https://www.sciencedirect.com/science/article/pii/S1359431119351531)
-[code](https://github.com/xuesongwang/Prediction-of-the-Heat-Transfer-based-on-XGBoost)
+[\[Paper\]](https://www.sciencedirect.com/science/article/pii/S1359431119351531) ·
+[\[code\]](https://github.com/xuesongwang/Prediction-of-the-Heat-Transfer-based-on-XGBoost)
 
 - Xuesong Wang, Qi Kang\*, Jing An, and Mengchu Zhou\*,
 "Drifted Twitter Spam Classification Using Multiscale Detection Test on K-L Divergence".
 In *IEEE Access*, 2019.
-[Paper](https://ieeexplore.ieee.org/abstract/document/8781937)
-[code](https://github.com/xuesongwang/Twitter-Concept-Drift-Detection-with-KL-div)
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8781937) ·
+[\[code\]](https://github.com/xuesongwang/Twitter-Concept-Drift-Detection-with-KL-div)
 
 - Qi Kang\*, Lei Shi, MengChu Zhou, XueSong Wang, QiDi Wu, and Zhi Wei,
 "A Distance-based Weighted Undersampling Scheme for Support Vector Machines and its Application to Imbalanced Classification".
