@@ -85,7 +85,6 @@ Personal Interests
 =======
 - Mentor and singing club host, Personalized English Language Enhancement [PELE](https://www.arts.unsw.edu.au/personalised-english-language-enhancement), Term2 2020, 
 with UNSW linguistic A. Prof. [Mira Kim](https://www.ada.unsw.edu.au/our-people/mira-kim)
-
 - Dialects: Love "guessing" and "classifying" one's hometown by the dialect
-- Psychology: Interested in psychological explanation for human behaviors, recently reading *The Social Animal* by Elliot Aronson.
+- Psychology: Interested in explanation for human behaviors, recently reading *The Social Animal* by Elliot Aronson.
 
