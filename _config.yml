@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuesong Wang"
+title                    : "Xue-Song Wang"
 title_separator          : "-"
-name                     : &name "Xuesong Wang"
-description              : &description "PhD candidate"
+name                     : &name "Xue-Song Wang (王雪松)"
+description              : &description "PhD at University of New South Wales"
 url                      : https://xuesongwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuesongwang.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xuesong Wang / Homepage"
+  name             : "Xue-Song Wang"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate, UNSW"
-  location         : "2052 Sydney, NSW, Australia"
+  bio              : "PhD candidate in Computer Science and Engineering, UNSW"
+  location         : "Sydney, Australia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mQdTZhYAAAAJ&hl=en"
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/xuesongwang"
+  github           : "xuesongwang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           : "https://www.linkedin.com/in/xuesong-wang-7728a711a/"
+  lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-4728-8924"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 

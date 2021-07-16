@@ -4,13 +4,17 @@ main:
     url: /publications/
     
 
-  - title: "Distinctions"
-    url: /teaching/    
-    
+  - title: "Honors and Awards"
+    url: /awards/    
         
-  - title: "Professional Service"
-    url: /year-archive/
+  - title: "Professional Services"
+    url: /professionalservices/
     
+  - title: "Professional Services"
+    url: /professionalservices/
+  
   - title: "CV"
     url: /cv/
+    
+  
     
