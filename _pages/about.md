@@ -79,7 +79,7 @@ Teaching
 
 CV
 =======
-[July 2021 Edition](https://xuesongwang.github.io/files/cv_xuesongwang.pdf)
+  [July 2021 Edition](https://xuesongwang.github.io/files/cv_xuesongwang.pdf)
 
 Personal Interests
 =======
