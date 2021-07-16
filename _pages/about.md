@@ -83,7 +83,8 @@ CV
 
 Personal Interests
 =======
-- Mentor for Personalized English Language Enhancement PELE, Term2  2020 with the UNSW linguistic A. Prof. Mira Kim
+- Mentor, Personalized English Language Enhancement [PELE](https://www.arts.unsw.edu.au/personalised-english-language-enhancement), Term2 2020, 
+with the UNSW linguistic A. Prof. [Mira Kim](https://www.ada.unsw.edu.au/our-people/mira-kim)
 
 - Dialects and Psychology
 
