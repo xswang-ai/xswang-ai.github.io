@@ -54,16 +54,12 @@ In *IEEE Transactions on Neural Networks and Learning Systems*, TNNLS, 2018.
 Honors and Awards
 ======
 
-3-Minute-Thesis People's Choice Award (3 out of 15)} Faculty of Engineering, UNSW.
-
-3-Minute-Thesis Second Prize (2 out of 7)} School of Computer Science and Engineering, UNSW.
-
-
-3MT is a competition for PhDs to consolidate their ideas and crystallise research discoveries in 3 minutes.\\
-
-Google Research India Graduate Symposium Attendee.
-
-TFS-CSC PhD scholarship.} Four-years funding with tuition fee waiver, UNSW and CSC.
+- 3-Minute-Thesis People's Choice Award (3 out of 15)} Faculty of Engineering, UNSW.
+- 3-Minute-Thesis Second Prize (2 out of 7)} School of Computer Science and Engineering, UNSW.
+  
+  (3MT is a competition for PhDs to consolidate their ideas and crystallise research discoveries in 3 minutes.)
+- Google Research India Graduate Symposium Attendee.
+-TFS-CSC PhD scholarship.} Four-years funding with tuition fee waiver, UNSW and CSC.
 
 Outstanding Master Thesis.} Tongji Unviersity award for academic excellence during the master.
 
