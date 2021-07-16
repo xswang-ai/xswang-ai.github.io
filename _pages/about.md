@@ -31,7 +31,7 @@ In *Pacific-Asia Conference on Knowledge Discovery and Data Mining*, PAKDD, 2020
 - XueSong Wang, Qi Kang\*, MengChu Zhou, Le Pan, and Abdullah Abusorrah, 
 "Multiscale Drift Detection Test to Enable Fast Learning in Nons-tationary Environments".
 In *IEEE Transactions on Cybernetics*, 2020.
-[\[Paper\]]https://ieeexplore.ieee.org/abstract/document/9119144) ·
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9119144) ·
 [\[code\]](https://github.com/xuesongwang/MDDT-Concept-Drift)
 
 - Ning Qian, Xuesong Wang, Yucan Fu\*, Zhengcai Zhao, Jiuhua Xu, and Jiajia Chen, 
@@ -49,7 +49,7 @@ In *IEEE Access*, 2019.
 - Qi Kang\*, Lei Shi, MengChu Zhou, XueSong Wang, QiDi Wu, and Zhi Wei,
 "A Distance-based Weighted Undersampling Scheme for Support Vector Machines and its Application to Imbalanced Classification".
 In *IEEE Transactions on Neural Networks and Learning Systems*, TNNLS, 2018.
-[Paper](https://ieeexplore.ieee.org/abstract/document/8082535)
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8082535)
 
 Honors and Awards
 ======
