@@ -10,8 +10,8 @@ redirect_from:
 Xue-Song Wang is a PhD candidate in the Data Dynamics Group at [UNSW](https://www.unsw.edu.au/) 
 supervised by [Scientia A. Prof. Lina Yao](https://www.linayao.com/).
 His research focuses on building explainable models and uncertainty evaluation using Neural Processes. 
-He received the Master degree in 2019 from [Tongji University](https://en.tongji.edu.cn/), supervised by Prof. [Qi Kang](https://scholar.google.com/citations?user=t8K4P4wAAAAJ&hl=en&oi=ao),
-and the Bachelor degree in 2016 from [NUAA](http://nuaa.edu.cn/).
+He received the Master degree in 2019 from [Tongji University](https://en.tongji.edu.cn/), supervised by Prof. [Qi Kang](https://scholar.google.com/citations?user=t8K4P4wAAAAJ&hl=en&oi=ao)
+and worked closely with Distinguished Prof. [MengChu Zhou](https://web.njit.edu/~zhou/). He received the Bachelor degree in 2016 from [NUAA](http://nuaa.edu.cn/).
 
 
 Publications
