@@ -16,9 +16,14 @@ and Distinguished Prof. [MengChu Zhou](https://web.njit.edu/~zhou/) \(work close
 
 Publications
 ======
-- Xuesong Wang\*, Lina Yao, Xianzhi Wang, and  Feiping Nie,
+- Xuesong Wang\*, Lina Yao, Xianzhi Wang, Hye-young Paik, Sen Wang
 "NP-PROV: Neural Processes with Position-Relevant-Only Variances". 
-In *abs 2007.00767*, arXiv, 2020.
+In *IEEE International Conference on Data Mining*, ICDM 2021.
+[\[Paper\]](https://arxiv.org/abs/2109.00691) ·
+
+- Xuesong Wang, Lina Yao\*, Xianzhi Wang, Feiping Nie, and Boualem Benatallah
+"NP-PROV: Neural Processes with Position-Relevant-Only Variances". 
+In *International Conference on Web Information Systems Engineering*, WISE 2021.
 [\[Paper\]](https://arxiv.org/abs/2007.00767) ·
 [\[code\]](https://github.com/xuesongwang/Neural-Process-Family)
 
@@ -54,7 +59,7 @@ In *IEEE Transactions on Neural Networks and Learning Systems*, TNNLS, 2018.
 Honors and Awards
 ======
 
-- 3-Minute-Thesis People's Choice Award (3 out of 15), Faculty of Engineering, UNSW.
+- 3-Minute-Thesis Final-list, UNSW.
 - 3-Minute-Thesis Second Prize (2 out of 7), School of Computer Science and Engineering, UNSW.
   (3MT is a competition for PhDs to consolidate their ideas and crystallise research discoveries in 3 minutes.)
 - Google Research India Graduate Symposium Attendee.
@@ -79,7 +84,7 @@ Teaching
 
 CV
 =======
-- [July 2021 Edition](https://xuesongwang.github.io/files/cv_xuesongwang.pdf)
+- [Sep 2021 Edition](https://xuesongwang.github.io/files/cv_xuesongwang.pdf)
 
 Personal Interests
 =======
