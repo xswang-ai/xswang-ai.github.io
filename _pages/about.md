@@ -17,7 +17,7 @@ and Distinguished Prof. [MengChu Zhou](https://web.njit.edu/~zhou/) \(work close
 Publications
 ======
 - Xuesong Wang\*, Lina Yao, Xianzhi Wang, Hye-young Paik, Sen Wang
-"NP-PROV: Neural Processes with Position-Relevant-Only Variances". 
+"Global Convolutional Neural Processes". 
 In *IEEE International Conference on Data Mining*, ICDM 2021.
 [\[Paper\]](https://arxiv.org/abs/2109.00691) ·
 
