@@ -60,14 +60,14 @@ Honors and Awards
 ======
 - Invited PhD lightning talk: "Into-the-Unknown: Uncertainty Evaluation for Multimedia Environments"[ACM Multimedia Asia 2021](https://mmasia2021.uqcloud.net/phd-school/)
 - ICDM 2021 Best Student Paper Candidate.
-- 3-Minute-Thesis Final-list, UNSW.
-- 3-Minute-Thesis Second Prize (2 out of 7), School of Computer Science and Engineering, UNSW.
+- 3-Minute-Thesis Final-list, UNSW， 2021.
+- 3-Minute-Thesis Second Prize (2 out of 7), School of Computer Science and Engineering, UNSW， 2021.
   (3MT is a competition for PhDs to consolidate their ideas and crystallise research discoveries in 3 minutes.)
-- Google Research India Graduate Symposium Attendee.
-- TFS-CSC PhD scholarship. Four-years funding with tuition fee waiver, UNSW and CSC.
-- Outstanding Master Thesis. Tongji Unviersity award for academic excellence.
-- TJU-TUM Industrial 4.0 Symposium. Selected to present the master project in Technical University of Munich.
-- Exchange Student Scholarship. Sponsored by China-Scholarship-Council (CSC) for exchange program in RMIT.
+- Google Research India Graduate Symposium Attendee， 2021.
+- TFS-CSC PhD scholarship. Four-years funding with tuition fee waiver, UNSW and CSC， 2019-2023.
+- Outstanding Master Thesis. Tongji Unviersity award for academic excellence， 2019.
+- TJU-TUM Industrial 4.0 Symposium. Selected to present the master project in Technical University of Munich， 2018.
+- Exchange Student Scholarship. Sponsored by China-Scholarship-Council (CSC) for exchange program in RMIT， 2015.
 
 Professional Services
 ======
