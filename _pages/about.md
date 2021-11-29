@@ -18,7 +18,7 @@ Publications
 ======
 - Xuesong Wang\*, Lina Yao, Xianzhi Wang, Hye-young Paik, Sen Wang
 "Global Convolutional Neural Processes". 
-In *IEEE International Conference on Data Mining*, ICDM 2021.
+In *IEEE International Conference on Data Mining*, ICDM 2021. #Best Paper Candidate
 [\[Paper\]](https://arxiv.org/abs/2109.00691) ·
 
 - Xuesong Wang, Lina Yao\*, Xianzhi Wang, Feiping Nie, and Boualem Benatallah
@@ -58,7 +58,8 @@ In *IEEE Transactions on Neural Networks and Learning Systems*, TNNLS, 2018.
 
 Honors and Awards
 ======
-
+- Invited PhD lightning talk: "Into-the-Unknown: Uncertainty Evaluation for Multimedia Environments"[ACM Multimedia Asia 2021](https://mmasia2021.uqcloud.net/phd-school/)
+- ICDM 2021 Best Student Paper Candidate.
 - 3-Minute-Thesis Final-list, UNSW.
 - 3-Minute-Thesis Second Prize (2 out of 7), School of Computer Science and Engineering, UNSW.
   (3MT is a competition for PhDs to consolidate their ideas and crystallise research discoveries in 3 minutes.)
@@ -84,7 +85,7 @@ Teaching
 
 CV
 =======
-- [Sep 2021 Edition](https://xuesongwang.github.io/files/cv_xuesongwang.pdf)
+- [Nov 2021 Edition](https://xuesongwang.github.io/files/cv_xuesongwang.pdf)
 
 Personal Interests
 =======
