@@ -18,7 +18,7 @@ Publications
 ======
 - Xuesong Wang\*, Lina Yao, Xianzhi Wang, Hye-young Paik, Sen Wang
 "Global Convolutional Neural Processes". 
-In *IEEE International Conference on Data Mining*, ICDM 2021. #Best Paper Candidate
+In *IEEE International Conference on Data Mining*, ICDM 2021. ***Best Paper Candidate***
 [\[Paper\]](https://arxiv.org/abs/2109.00691) ·
 
 - Xuesong Wang, Lina Yao\*, Xianzhi Wang, Feiping Nie, and Boualem Benatallah
