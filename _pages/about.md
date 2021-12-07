@@ -60,7 +60,7 @@ Honors and Awards
 ======
 - 2021 Invited PhD lightning talk: "Into-the-Unknown: Uncertainty Evaluation for Multimedia Environments"[ACM Multimedia Asia 2021](https://mmasia2021.uqcloud.net/phd-school/)
 - 2021 ICDM Best Student Paper Candidate.
-- 2021 3-Minute-Thesis Final-list, UNSW.
+- 2021 3-Minute-Thesis Final-list, UNSW. (Check out the [video](https://www.youtube.com/watch?v=j1ewd86C3AQ&list=PL50XnIfJxPDU3ERa6Wd92ZUv1mSKl5V4X&index=17) here)
 - 2021 3-Minute-Thesis Second Prize (2 out of 7), School of Computer Science and Engineering, UNSW.
   (3MT is a competition for PhDs to consolidate their ideas and crystallise research discoveries in 3 minutes.)
 - 2021 Google Research India Graduate Symposium Attendee.
