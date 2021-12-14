@@ -20,6 +20,7 @@ Publications
 "Global Convolutional Neural Processes". 
 In *IEEE International Conference on Data Mining*, ICDM 2021. ***Best Paper Candidate***
 [\[Paper\]](https://arxiv.org/abs/2109.00691) ·
+[\[code\]](https://github.com/xuesongwang/global-convolutional-neural-processes）
 
 - Xuesong Wang, Lina Yao\*, Xianzhi Wang, Feiping Nie, and Boualem Benatallah
 "NP-PROV: Neural Processes with Position-Relevant-Only Variances". 
