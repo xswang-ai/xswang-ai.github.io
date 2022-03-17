@@ -17,8 +17,12 @@ and Distinguished Prof. [MengChu Zhou](https://web.njit.edu/~zhou/) \(work close
 Publications
 ======
 - Xuesong Wang\*, Lina Yao, Xianzhi Wang, Hye-young Paik, Sen Wang
+"Meta Latent Neural Processes for Uncertainty Estimation over Evolving Data Streams". 
+submitted to *IEEE Transactions on Neural Networks and Learning Systems* , TNNLS, 2022.
+
+- Xuesong Wang\*, Lina Yao, Xianzhi Wang, Hye-young Paik, Sen Wang
 "Global Convolutional Neural Processes". 
-In *IEEE International Conference on Data Mining*, ICDM 2021. ***Best Paper Candidate***
+In *IEEE International Conference on Data Mining*, ICDM 2021. 
 [\[Paper\]](https://arxiv.org/abs/2109.00691) · [\[code\]](https://github.com/xuesongwang/global-convolutional-neural-processes)
 
 - Xuesong Wang, Lina Yao\*, Xianzhi Wang, Feiping Nie, and Boualem Benatallah
@@ -64,6 +68,7 @@ Honors and Awards
 - 2021 3-Minute-Thesis Second Prize (2 out of 7), School of Computer Science and Engineering, UNSW.
   (3MT is a competition for PhDs to consolidate their ideas and crystallise research discoveries in 3 minutes.)
 - 2021 Google Research India Graduate Symposium Attendee.
+- 2020 UNSW HDR Conference Grant, $2500.
 - 2019-2023 TFS-CSC PhD scholarship. Four-years funding with tuition fee waiver, UNSW and CSC.
 - 2019 Outstanding Master Thesis. Tongji Unviersity award for academic excellence.
 - 2018 TJU-TUM Industrial 4.0 Symposium. Selected to present the master project in Technical University of Munich.
@@ -82,10 +87,11 @@ Professional Services
 Teaching
 =======
 - Tutor, COMM1190 "Data, Insights, Decisions", Term 3 2021, UNSW.
+- Tutor, INFS3830 "Social Media and Analytics", Term 1 2022, UNSW.
 
 CV
 =======
-- [Nov 2021 Edition](https://xuesongwang.github.io/files/cv_xuesongwang.pdf)
+- [Mar 2022 Edition](https://xuesongwang.github.io/files/cv_xuesongwang.pdf)
 
 Personal Interests
 =======
