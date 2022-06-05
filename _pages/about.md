@@ -16,6 +16,10 @@ and Distinguished Prof. [MengChu Zhou](https://web.njit.edu/~zhou/) \(work close
 
 Publications
 ======
+- Xuesong Wang\*, Lina Yao, Islem Rekik, Yu Zhang
+"Contrastive Functional Connectivity Graph Learning for Population-based fMRI Classification". 
+In *International Conference on Medical Image Computing and Computer Assisted Intervention* , MICCAI, 2022.
+
 - Xuesong Wang\*, Lina Yao, Xianzhi Wang, Hye-young Paik, Sen Wang
 "Meta Latent Neural Processes for Uncertainty Estimation over Evolving Data Streams". 
 submitted to *IEEE Transactions on Neural Networks and Learning Systems* , TNNLS, 2022.
@@ -77,7 +81,7 @@ Honors and Awards
 Professional Services
 ======
 - Reviewer:
-  - Conferences: CIKM 2021.
+  - Conferences: CIKM 2021, CKIM 2022.
   - Journals: ACM Transactions on Sensor Networks, IEEE TNNLS.
 
 - External Reviewer:
@@ -86,8 +90,9 @@ Professional Services
 
 Teaching
 =======
-- Tutor, COMM1190 "Data, Insights, Decisions", Term 3 2021, UNSW.
-- Tutor, INFS3830 "Social Media and Analytics", Term 1 2022, UNSW.
+- Tutor, COMM1190 "Data, Insights, Decisions", Undergraduate, Term 3 2021, UNSW.
+- Tutor, INFS3830 "Social Media and Analytics",  Undergraduate,  Term 1 2022, UNSW.
+- Tutor, INFS5730, "Social Media and Enterprise 2.0", Postgraduate, Term 2, 2022, UNSW.
 
 CV
 =======
