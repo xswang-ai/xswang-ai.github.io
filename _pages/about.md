@@ -73,10 +73,10 @@ Honors and Awards
   (3MT is a competition for PhDs to consolidate their ideas and crystallise research discoveries in 3 minutes.)
 - 2021 Google Research India Graduate Symposium Attendee.
 - 2020 UNSW HDR Conference Grant, $2500.
-- 2019-2023 TFS-CSC PhD scholarship. Four-years funding with tuition fee waiver, UNSW and CSC.
+- 2019-2023 TFS PhD scholarship. Four-years funding with tuition fee waiver, UNSW.
 - 2019 Outstanding Master Thesis. Tongji Unviersity award for academic excellence.
 - 2018 TJU-TUM Industrial 4.0 Symposium. Selected to present the master project in Technical University of Munich.
-- 2015 Exchange Student Scholarship. Sponsored by China-Scholarship-Council (CSC) for exchange program in RMIT.
+- 2015 Exchange Student Scholarship. Exchange program in RMIT.
 
 Professional Services
 ======
