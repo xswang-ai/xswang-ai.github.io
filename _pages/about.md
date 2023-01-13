@@ -20,6 +20,10 @@ Publications
 "Contrastive Functional Connectivity Graph Learning for Population-based fMRI Classification". 
 In *International Conference on Medical Image Computing and Computer Assisted Intervention* , MICCAI, 2022.
 
+- Saurav Jha, Dong Gong, Xuesong Wang, Richard E Turner, Lina Yao*
+"The Neural Process Family: Survey, Applications and Perspectives." In Arxiv, 2022.
+
+
 - Xuesong Wang\*, Lina Yao, Xianzhi Wang, Hye-young Paik, Sen Wang
 "Meta Latent Neural Processes for Uncertainty Estimation over Evolving Data Streams". 
 In *IEEE Transactions on Neural Networks and Learning Systems* , TNNLS, 2022.
