@@ -22,7 +22,7 @@ In *International Conference on Medical Image Computing and Computer Assisted In
 
 - Xuesong Wang\*, Lina Yao, Xianzhi Wang, Hye-young Paik, Sen Wang
 "Meta Latent Neural Processes for Uncertainty Estimation over Evolving Data Streams". 
-submitted to *IEEE Transactions on Neural Networks and Learning Systems* , TNNLS, 2022.
+In *IEEE Transactions on Neural Networks and Learning Systems* , TNNLS, 2022.
 
 - Xuesong Wang\*, Lina Yao, Xianzhi Wang, Hye-young Paik, Sen Wang
 "Global Convolutional Neural Processes". 
