@@ -66,6 +66,7 @@ In *IEEE Transactions on Neural Networks and Learning Systems*, TNNLS, 2018.
 
 Honors and Awards
 ======
+- 2023 Invited talk: "Uncertainty Estimation in Time Series with Neural Processes" [Meetup](https://www.meetup.com/berlin-time-series-analysis-meetup/events/290436189/)
 - 2021 Invited PhD lightning talk: "Into-the-Unknown: Uncertainty Evaluation for Multimedia Environments"[ACM Multimedia Asia 2021](https://mmasia2021.uqcloud.net/phd-school/)
 - 2021 ICDM Best Student Paper Candidate.
 - 2021 3-Minute-Thesis Final-list, UNSW. (Check out the [video](https://www.youtube.com/watch?v=j1ewd86C3AQ&list=PL50XnIfJxPDU3ERa6Wd92ZUv1mSKl5V4X&index=17) here)
