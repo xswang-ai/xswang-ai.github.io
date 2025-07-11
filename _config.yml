@@ -11,9 +11,9 @@ title                    : "Xuesong Wang"
 title_separator          : "-"
 name                     : &name "Xuesong Wang (王雪松)"
 description              : &description  "Postdoctoral Researcher at CSIRO's Data61, Australia"
-url                      : https://xuesongwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xswang-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xuesongwang.github.io"
+repository               : "https://xswang-ai.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xue-Song Wang"
-  avatar           : "camping.jpg"
-  bio              : "PhD candidate in Computer Science and Engineering, UNSW"
+  name             : "Xuesong Wang"
+  avatar           : "XUESONG WANG.jpeg"
+  bio              : "Postdoctoral Researcher at CSIRO's Data61, Australia"
   location         : "Sydney, Australia"
-  employer         :
+  employer         : "CSIRO's Data61"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mQdTZhYAAAAJ&hl=en"
-  email            : "xuesong.wang1@unsw.edu.au"
+  email            : "xuesong.wang@csiro.au"
   researchgate     :  "https://www.researchgate.net/profile/Xuesong_Wang19"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xuesongwang"
+  github           : "xswang-ai"
   google_plus      :
   keybase          :
   instagram        :
