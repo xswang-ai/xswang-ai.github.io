@@ -7,15 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Xue-Song Wang is a PhD candidate in the Data Dynamics Group at [UNSW](https://www.unsw.edu.au/) 
+Xuesong is currently a postdoctoral researcher at CSIRO's Data 61, Australia under the supervision of [Edwin Bonilla](https://ebonilla.github.io/) and [Terry O'Kane](https://people.csiro.au/O/T/Terence-OKane) working on probabilistic climate modelling. He obtained a PhD in Computer Science and Engineering at University of New South Wales in 2023 under the supervision of [Lina Yao](https://www.linayao.com/). He obtained a MEng in Control Science in 2019 and a BEng in Mechanical Engineering in 2016. 
+
+Most of his expertise is in deep learning algorithms and probabilistic modelling for the analysis of complex data, in areas such as Bayesian inference, neural processes, graph analysis and drift detection. He has worked in wide applications such as tabular data in engineering, medical imaging analysis, geospatial climate modelling, and high dimensional time series. His current interests include transformers, neural operators, and AI for science and engineering.
+
+<!-- Xue-Song Wang is a PhD candidate in the Data Dynamics Group at [UNSW](https://www.unsw.edu.au/) 
 supervised by [Scientia A. Prof. Lina Yao](https://www.linayao.com/).
 His research focuses on building explainable models and uncertainty evaluation using Neural Processes. 
 He received the Master degree in 2019 from [Tongji University](https://en.tongji.edu.cn/), supervised by Prof. [Qi Kang](https://scholar.google.com/citations?user=t8K4P4wAAAAJ&hl=en&oi=ao)
-and Distinguished Prof. [MengChu Zhou](https://web.njit.edu/~zhou/) \(work closely\). He received the Bachelor degree in 2016 from [NUAA](http://nuaa.edu.cn/).
+and Distinguished Prof. [MengChu Zhou](https://web.njit.edu/~zhou/) \(work closely\). He received the Bachelor degree in 2016 from [NUAA](http://nuaa.edu.cn/). -->
 
 
 Publications
 ======
+-- Xuesong Wang\*, He Zhao, Edwin V. Bonilla
+"Rényi Neural Processes".
+In *International Conference on Machine Learning*,
+ICML, 2025.
+
+
 - Xuesong Wang\*, Lina Yao, Islem Rekik, Yu Zhang
 "Contrastive Functional Connectivity Graph Learning for Population-based fMRI Classification". 
 In *International Conference on Medical Image Computing and Computer Assisted Intervention* , MICCAI, 2022.
@@ -101,7 +111,7 @@ Teaching
 
 CV
 =======
-- [Mar 2022 Edition](https://xuesongwang.github.io/files/cv_xuesongwang.pdf)
+- [July 2025 Edition](https://xswang-ai.github.io/files/cv_xuesongwang.pdf)
 
 Personal Interests
 =======
