@@ -20,7 +20,8 @@ and Distinguished Prof. [MengChu Zhou](https://web.njit.edu/~zhou/) \(work close
 
 Publications
 ======
--- Xuesong Wang\*, He Zhao, Edwin V. Bonilla
+
+- Xuesong Wang\*, He Zhao, Edwin V. Bonilla
 "Rényi Neural Processes".
 In *International Conference on Machine Learning*,
 ICML, 2025.
